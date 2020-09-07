@@ -30,7 +30,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Flask](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [Mysql](https://maven.apache.org/) - Base de datos
-* [Jinja2](https://rometools.github.io/rome/) - ORM
+* [Jinja2](https://rometools.github.io/rome/) - Motor de plantillas 
 
 
 ## Autores ✒️
